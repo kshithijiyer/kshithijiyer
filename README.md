@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on inscreasing automation coverage for glusterfs <br>
+🔭 I’m currently working on increasing automation test coverage for glusterfs <br>
 💬 Ask me about Python
