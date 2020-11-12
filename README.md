@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on increasing automation test coverage for glusterfs <br>
+🌱 I’m currently learning Go <br>
 💬 Ask me about Python
+
