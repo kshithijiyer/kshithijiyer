@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Go <br>
 💬 Ask me about Python
 
+![Kshithij's github stats](https://github-readme-stats.vercel.app/api?username=kshithijiyer&theme=dark&include_all_commits=true&show_icons=true)
