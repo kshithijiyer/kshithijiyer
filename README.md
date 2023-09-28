@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 💬 Ask me about Python
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kshithijyer&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak PX account](http://github-readme-streak-stats.herokuapp.com?user=kshithijiyer-px&theme=dark&background=000000)](https://git.io/streak-stats)
