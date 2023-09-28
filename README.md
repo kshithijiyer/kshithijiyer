@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Go <br>
 💬 Ask me about Python
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kshithijiyer&theme=dark&background=000000)](https://git.io/streak-stats)
 
